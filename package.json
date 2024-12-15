@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "homepage": "https://lehi.dev/",
   "bugs": {
-    "url": "https://github.com/ylehilds/camelToSnake",
+    "url": "https://github.com/ylehilds/camelToSnake/issues",
     "email": "lehilds@gmail.com"
   },
   "description": "CamelCase to snake_case conversion",
