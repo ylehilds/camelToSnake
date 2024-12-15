@@ -1,8 +1,8 @@
 {
-  "name": "cameltosnake",
+  "name": "@lehilds/cameltosnake",
   "version": "1.0.0",
   "description": "CamelCase to snake_case conversion",
-  "main": "index.js",
+  "main": "camelToSnake.js",
   "scripts": {
     "test": "jest"
   },
