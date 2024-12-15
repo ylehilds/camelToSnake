@@ -1,5 +1,5 @@
 {
-  "name": "@lehi/cameltosnake",
+  "name": "@lehidev/cameltosnake",
   "version": "1.0.0",
   "description": "CamelCase to snake_case conversion",
   "main": "camelToSnake.js",
