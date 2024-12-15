@@ -1,0 +1,19 @@
+{
+  "name": "cameltosnake",
+  "version": "1.0.0",
+  "description": "CamelCase to snake_case conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "CamelCase",
+    "snake_case",
+    "conversion"
+  ],
+  "author": "Lehi Alcantara",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
