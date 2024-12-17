@@ -3,7 +3,7 @@ CamelCase to snake_case conversion
 
 ## Usage
 ```node
-const camelToSnake = require('camel-to-snake');
+const camelToSnake = require('@lehidev/cameltosnake');
 
 Usage:
   camelToSnake('camelCase') // returns 'camel_case'
