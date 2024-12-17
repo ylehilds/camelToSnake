@@ -1,6 +1,6 @@
 {
   "name": "@lehidev/camel-to-snake",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "https://lehi.dev/",
   "bugs": {
     "url": "https://github.com/ylehilds/camelToSnake/issues",
