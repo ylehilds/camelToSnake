@@ -3,11 +3,11 @@
   "version": "1.0.5",
   "homepage": "https://lehi.dev/",
   "bugs": {
-    "url": "https://github.com/ylehilds/camelToSnake/issues",
+    "url": "https://github.com/ylehilds/camel-to-snake/issues",
     "email": "lehilds@gmail.com"
   },
   "description": "CamelCase to snake_case conversion",
-  "main": "camelToSnake.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -23,6 +23,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ylehilds/camelToSnake"
+    "url": "https://github.com/ylehilds/camel-to-snake"
   }
 }

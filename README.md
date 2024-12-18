@@ -1,4 +1,4 @@
-# camelToSnake
+# camel-to-snake
 CamelCase to snake_case conversion
 
 ## Usage

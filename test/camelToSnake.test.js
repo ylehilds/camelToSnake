@@ -1,4 +1,4 @@
-const camelToSnake = require('../camelToSnake');
+const camelToSnake = require('../index');
 
 describe('camelToSnake', () => {
   test('should convert a simple CamelCase string to snake_case', () => {
